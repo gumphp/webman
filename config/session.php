@@ -14,21 +14,21 @@
 
 return [
 
-    'type'    => 'file', // or redis or redis_cluster
+    'type'    => env('SESSION_TYPE', 'file'), // or redis or redis_cluster
 
-    'handler' => Webman\FileSessionHandler::class,
+    'handler' => env('SESSION_HANDLER', Webman\FileSessionHandler::class),
 
     'config' => [
         'file' => [
-            'save_path' => runtime_path() . '/sessions',
+            'save_path' => env('SESSION_FILE_SAVE_PATH', runtime_path() . '/sessions'),
         ],
         'redis' => [
-            'host'      => '127.0.0.1',
-            'port'      => 6379,
-            'auth'      => '',
-            'timeout'   => 2,
-            'database'  => '',
-            'prefix'    => 'redis_session_',
+            'host'      => env('REDIS_HOST_SESSION', '127.0.0.1'),
+            'port'      => env('REDIS_PORT_SESSION', 6379),
+            'auth'      => env('REDIS_AUTH_SESSION', ''),
+            'timeout'   => env('REDIS_TIMEOUT_SESSION', 2),
+            'database'  => env('REDIS_DATABASE_SESSION', 1),
+            'prefix'    => env('REDIS_PREFIX_SESSION', 'redis_session_'),
         ],
         'redis_cluster' => [
             'host'    => ['127.0.0.1:7000', '127.0.0.1:7001', '127.0.0.1:7001'],
@@ -38,5 +38,5 @@ return [
         ]
     ],
 
-    'session_name' => 'PHPSID',
+    'session_name' => env('SESSION_NAME', 'PHPSID'),
 ];

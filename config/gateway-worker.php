@@ -23,11 +23,11 @@ return [
         /**
          * 是否启动 register 服务
          */
-        'start' => true,
+        'start' => env('REGISTER_START', true),
         /**
          * 监听地址，只能使用text协议
          */
-        'listen' => 'text://0.0.0.0:1238',
+        'listen' => env('REGISTER_LISTEN', 'text://0.0.0.0:1238'),
         /**
          * register配置
          */
@@ -35,7 +35,7 @@ return [
             /**
              * register 进程名称
              */
-            'name' => 'Register',
+            'name' => env('REGISTER_NAME', 'Register'),
         ],
     ],
 
@@ -54,11 +54,11 @@ return [
         /**
          * 是否启动 gateway 服务
          */
-        'start' => true,
+        'start' => env('GATEWAY_START', true),
         /**
          * 监听地址，可以使用的协议：websocket/text/frame/自定义协议/tcp
          */
-        'listen' => 'websocket://0.0.0.0:8282',
+        'listen' => env('GATEWAY_LISTEN', 'websocket://0.0.0.0:8282'),
         /**
          * gateway 配置
          */
@@ -66,11 +66,11 @@ return [
             /**
              * 设置Gateway进程的名称，方便status命令中查看统计
              */
-            'name' => 'Gateway',
+            'name' => env('GATEWAY_NAME', 'Gateway'),
             /**
              * 设置Gateway进程的数量，以便充分利用多cpu资源
              */
-            'count' => 4,
+            'count' => env('GATEWAY_COUNT', cpu_count() * 2),
             /**
              * lanIp是Gateway所在服务器的内网IP，默认填写127.0.0.1即可。
              * 多服务器分布式部署的时候需要填写真实的内网ip，不能填写127.0.0.1。
@@ -79,31 +79,31 @@ return [
              * 多服务器分布式部署文档：
              * https://www.workerman.net/doc/gateway-worker/how-distributed.html
              */
-            'lanIp' => '127.0.0.1',
+            'lanIp' => env('GATEWAY_LANIP', '127.0.0.1'),
             /**
              * Gateway进程启动后会监听一个本机端口，用来给BusinessWorker提供链接服务，然后Gateway与BusinessWorker之间就通过这个连接通讯。
              * 这里设置的是Gateway监听本机端口的起始端口。比如启动了4个Gateway进程，startPort为2000，则每个Gateway进程分别启动的本地端口一般为2000、2001、2002、2003。
              * 当本机有多个Gateway/BusinessWorker项目时，需要把每个项目的startPort设置成不同的段
              */
-            'startPort' => 2000,
+            'startPort' => env('GATEWAY_START_PORT', 2000),
             /**
              * registerAddress，注册服务地址，只写格式类似于 '127.0.0.1:1236'
              */
-            'registerAddress' => '127.0.0.1:1238',
+            'registerAddress' => env('REGISTER_ADDRESS', '127.0.0.1:1238'),
             /**
              * 心跳检测时间间隔 单位：秒。如果设置为0代表不做任何心跳检测。
              */
-            'pingInterval' => 30,
+            'pingInterval' => env('GATEWAY_PING_INTERVAL', 30),
             /**
              * 客户端连续$pingNotResponseLimit次$pingInterval时间内不发送任何数据(包括但不限于心跳数据)则断开链接，并触发onClose。
              * 如果设置为0代表客户端不用发送心跳数据，即通过TCP层面检测连接的连通性（极端情况至少10分钟才能检测到连接断开，甚至可能永远检测不到）
              */
-            'pingNotResponseLimit' => 1,
+            'pingNotResponseLimit' => env('GATEWAY_PING_NOT_RESPONSE_LIMIT', 1),
             /**
              * 当需要服务端定时给客户端发送心跳数据时，$gateway->pingData设置为服务端要发送的心跳请求数据，心跳数据是任意的，只要客户端能识别即可。
              * 客户端收到心跳数据可以忽略不做任何处理。
              */
-            'pingData' => '{"action":"ping"}',
+            'pingData' => env('GATEWAY_PING_DATA', '{"action":"ping"}'),
             /**
              * 设置Gateway进程启动后的回调函数，一般在这个回调里面初始化一些全局数据
              */
@@ -133,7 +133,7 @@ return [
      * BusinessWorker是运行业务逻辑的进程，BusinessWorker收到Gateway转发来的事件及请求时会默认调用 EventHandler 中的onConnect onMessage onClose方法处理事件及数据，开发者正是通过实现这些回调控制业务及流程。
      */
     'businessworker' => [
-        'start' => true,
+        'start' => env('BUSINESSWORKER_START', true),
         /**
          * businessworker配置
          */
@@ -141,15 +141,15 @@ return [
             /**
              * 设置BusinessWorker进程的名称，方便status命令中查看统计
              */
-            'name' => 'BusinessWorker',
+            'name' => env('BUSINESSWORKER_NAME', 'BusinessWorker'),
             /**
              * 设置BusinessWorker进程的数量，以便充分利用多cpu资源
              */
-            'count' => 4,
+            'count' => env('BUSINESSWORKER_COUNT', cpu_count() * 2),
             /**
              * registerAddress，注册服务地址，只写格式类似于 '127.0.0.1:1236'
              */
-            'registerAddress' => '127.0.0.1:1238',
+            'registerAddress' => env('REGISTER_ADDRESS', '127.0.0.1:1238'),
             /**
              * 设置BusinessWorker进程启动后的回调函数，一般在这个回调里面初始化一些全局数据
              */
@@ -162,7 +162,7 @@ return [
              * 设置使用哪个类来处理业务，默认值是Events，即默认使用Events.php中的Events类来处理业务。
              * 业务类至少要实现onMessage静态方法，onConnect和onClose静态方法可以不用实现。
              */
-            'eventHandler' => \app\service\BusinessWorkerEvent::class,
+            'eventHandler' => env('BUSINESSWORKER_EVENT_HANDLER', \app\service\BusinessWorkerEvent::class),
         ],
     ],
 ];
