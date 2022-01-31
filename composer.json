@@ -29,7 +29,8 @@
     "monolog/monolog": "^2.0",
     "webman/console": "^1.0",
     "workerman/gateway-worker": "^3.0",
-    "illuminate/database": "^8.81"
+    "illuminate/database": "^8.81",
+    "illuminate/events": "^8.81"
   },
   "suggest": {
     "ext-event": "For better performance. "
