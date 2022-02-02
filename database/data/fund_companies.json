@@ -1,0 +1,1623 @@
+{
+  "00079099": {
+    "count": 505,
+    "name": "华夏基金管理有限公司",
+    "createDate": "1998-04-09",
+    "manager": "李一梅",
+    "zcglgm": "10524.14",
+    "url": "www.chinaamc.com",
+    "orgnamefc": "H"
+  },
+  "T000025146": {
+    "count": 60,
+    "name": "国海富兰克林基金管理有限公司",
+    "createDate": "2004-11-15",
+    "manager": "徐荔蓉(代)",
+    "zcglgm": "755.48",
+    "url": "www.ftsfund.com",
+    "orgnamefc": "G"
+  },
+  "00022444": {
+    "count": 418,
+    "name": "富国基金管理有限公司",
+    "createDate": "1999-04-13",
+    "manager": "陈戈",
+    "zcglgm": "9019.91",
+    "url": "www.fullgoal.com.cn",
+    "orgnamefc": "F"
+  },
+  "T000009108": {
+    "count": 231,
+    "name": "建信基金管理有限责任公司",
+    "createDate": "2005-09-19",
+    "manager": "张军红",
+    "zcglgm": "6860.55",
+    "url": "www.ccbfund.cn",
+    "orgnamefc": "J"
+  },
+  "00090517": {
+    "count": 353,
+    "name": "工银瑞信基金管理有限公司",
+    "createDate": "2005-06-21",
+    "manager": "高翀",
+    "zcglgm": "8118.71",
+    "url": "www.icbccs.com.cn",
+    "orgnamefc": "G"
+  },
+  "00010223": {
+    "count": 505,
+    "name": "博时基金管理有限公司",
+    "createDate": "1998-07-13",
+    "manager": "高阳",
+    "zcglgm": "10142.93",
+    "url": "www.bosera.com",
+    "orgnamefc": "B"
+  },
+  "T000023592": {
+    "count": 294,
+    "name": "国泰基金管理有限公司",
+    "createDate": "1998-03-05",
+    "manager": "周向勇",
+    "zcglgm": "5335.41",
+    "url": "www.gtfund.com",
+    "orgnamefc": "G"
+  },
+  "03133598": {
+    "count": 231,
+    "name": "中欧基金管理有限公司",
+    "createDate": "2006-07-19",
+    "manager": "刘建平",
+    "zcglgm": "5809.02",
+    "url": "www.zofund.com",
+    "orgnamefc": "Z"
+  },
+  "jjjl0000077": {
+    "count": 69,
+    "name": "兴证全球基金管理有限公司",
+    "createDate": "2003-09-30",
+    "manager": "庄园芳",
+    "zcglgm": "5961.02",
+    "url": "www.xqfunds.com",
+    "orgnamefc": "X"
+  },
+  "T000023432": {
+    "count": 177,
+    "name": "交银施罗德基金管理有限公司",
+    "createDate": "2005-08-04",
+    "manager": "谢卫",
+    "zcglgm": "5481.42",
+    "url": "www.fund001.com",
+    "orgnamefc": "J"
+  },
+  "T000009584": {
+    "count": 377,
+    "name": "鹏华基金管理有限公司",
+    "createDate": "1998-12-22",
+    "manager": "邓召明",
+    "zcglgm": "7729.42",
+    "url": "www.phfund.com.cn",
+    "orgnamefc": "P"
+  },
+  "T000023574": {
+    "count": 408,
+    "name": "汇添富基金管理股份有限公司",
+    "createDate": "2005-02-03",
+    "manager": "张晖",
+    "zcglgm": "9335.70",
+    "url": "www.99fund.com",
+    "orgnamefc": "H"
+  },
+  "00079708": {
+    "count": 518,
+    "name": "广发基金管理有限公司",
+    "createDate": "2003-08-05",
+    "manager": "王凡",
+    "zcglgm": "11538.72",
+    "url": "www.gffunds.com.cn",
+    "orgnamefc": "G"
+  },
+  "T000022227": {
+    "count": 224,
+    "name": "中银基金管理有限公司",
+    "createDate": "2004-08-12",
+    "manager": "章砚",
+    "zcglgm": "4013.54",
+    "url": "www.bocim.com",
+    "orgnamefc": "Z"
+  },
+  "T000035604": {
+    "count": 279,
+    "name": "平安基金管理有限公司",
+    "createDate": "2011-01-07",
+    "manager": "肖宇鹏",
+    "zcglgm": "4624.18",
+    "url": "www.fund.pingan.com",
+    "orgnamefc": "P"
+  },
+  "T000137354": {
+    "count": 61,
+    "name": "中金基金管理有限公司",
+    "createDate": "2014-02-10",
+    "manager": "孙菁",
+    "zcglgm": "815.17",
+    "url": "www.ciccfund.com",
+    "orgnamefc": "Z"
+  },
+  "T000383548": {
+    "count": 25,
+    "name": "中航基金管理有限公司",
+    "createDate": "2016-06-16",
+    "manager": "刘建",
+    "zcglgm": "256.75",
+    "url": "www.avicfund.cn",
+    "orgnamefc": "Z"
+  },
+  "00065970": {
+    "count": 299,
+    "name": "华安基金管理有限公司",
+    "createDate": "1998-06-04",
+    "manager": "张霄岭",
+    "zcglgm": "6045.04",
+    "url": "www.huaan.com.cn",
+    "orgnamefc": "H"
+  },
+  "00089257": {
+    "count": 57,
+    "name": "东吴基金管理有限公司",
+    "createDate": "2004-09-02",
+    "manager": "邓晖",
+    "zcglgm": "299.11",
+    "url": "www.scfund.com.cn",
+    "orgnamefc": "D"
+  },
+  "T000123421": {
+    "count": 31,
+    "name": "浙江浙商证券资产管理有限公司",
+    "createDate": "2013-04-18",
+    "manager": "盛建龙",
+    "zcglgm": "207.66",
+    "url": "www.stocke.com.cn",
+    "orgnamefc": "Z"
+  },
+  "T000152420": {
+    "count": 27,
+    "name": "红土创新基金管理有限公司",
+    "createDate": "2014-06-18",
+    "manager": "冀洪涛",
+    "zcglgm": "115.99",
+    "url": "www.htcxfund.com",
+    "orgnamefc": "H"
+  },
+  "00064423": {
+    "count": 477,
+    "name": "易方达基金管理有限公司",
+    "createDate": "2001-04-17",
+    "manager": "刘晓艳",
+    "zcglgm": "17242.06",
+    "url": "www.efunds.com.cn",
+    "orgnamefc": "Y"
+  },
+  "T000021466": {
+    "count": 420,
+    "name": "招商基金管理有限公司",
+    "createDate": "2002-12-27",
+    "manager": "王小青",
+    "zcglgm": "7496.27",
+    "url": "www.cmfchina.com",
+    "orgnamefc": "Z"
+  },
+  "T000174064": {
+    "count": 26,
+    "name": "中泰证券(上海)资产管理有限公司",
+    "createDate": "2014-08-13",
+    "manager": "徐建东",
+    "zcglgm": "197.57",
+    "url": "www.ztzqzg.com",
+    "orgnamefc": "Z"
+  },
+  "00052134": {
+    "count": 137,
+    "name": "融通基金管理有限公司",
+    "createDate": "2001-05-22",
+    "manager": "张帆",
+    "zcglgm": "1285.08",
+    "url": "www.rtfund.com",
+    "orgnamefc": "R"
+  },
+  "T000154371": {
+    "count": 61,
+    "name": "九泰基金管理有限公司",
+    "createDate": "2014-07-03",
+    "manager": "严军",
+    "zcglgm": "49.12",
+    "url": "www.jtamc.com",
+    "orgnamefc": "J"
+  },
+  "T000002840": {
+    "count": 151,
+    "name": "民生加银基金管理有限公司",
+    "createDate": "2008-11-03",
+    "manager": "李操纲",
+    "zcglgm": "1456.85",
+    "url": "www.msjyfund.com.cn",
+    "orgnamefc": "M"
+  },
+  "T000187035": {
+    "count": 43,
+    "name": "华泰证券(上海)资产管理有限公司",
+    "createDate": "2014-10-16",
+    "manager": "王锦海",
+    "zcglgm": "737.17",
+    "url": "htamc.htsc.com.cn",
+    "orgnamefc": "H"
+  },
+  "03143791": {
+    "count": 166,
+    "name": "浦银安盛基金管理有限公司",
+    "createDate": "2007-08-05",
+    "manager": "郁蓓华",
+    "zcglgm": "2705.48",
+    "url": "www.py-axa.com",
+    "orgnamefc": "P"
+  },
+  "T000053684": {
+    "count": 67,
+    "name": "财通基金管理有限公司",
+    "createDate": "2011-06-21",
+    "manager": "汪海(代)",
+    "zcglgm": "550.51",
+    "url": "www.ctfund.com",
+    "orgnamefc": "C"
+  },
+  "00062720": {
+    "count": 251,
+    "name": "大成基金管理有限公司",
+    "createDate": "1999-04-12",
+    "manager": "谭晓冈",
+    "zcglgm": "2396.29",
+    "url": "www.dcfund.com.cn",
+    "orgnamefc": "D"
+  },
+  "00055027": {
+    "count": 221,
+    "name": "银华基金管理股份有限公司",
+    "createDate": "2001-05-28",
+    "manager": "王立新",
+    "zcglgm": "5202.34",
+    "url": "www.yhfund.com.cn",
+    "orgnamefc": "Y"
+  },
+  "T000212977": {
+    "count": 55,
+    "name": "泓德基金管理有限公司",
+    "createDate": "2015-03-03",
+    "manager": "王德晓",
+    "zcglgm": "985.30",
+    "url": "www.hongdefund.com",
+    "orgnamefc": "H"
+  },
+  "T000009495": {
+    "count": 182,
+    "name": "万家基金管理有限公司",
+    "createDate": "2002-08-23",
+    "manager": "陈广益",
+    "zcglgm": "2660.42",
+    "url": "www.wjasset.com",
+    "orgnamefc": "W"
+  },
+  "T000138980": {
+    "count": 143,
+    "name": "国寿安保基金管理有限公司",
+    "createDate": "2013-10-29",
+    "manager": "左季庆",
+    "zcglgm": "2597.85",
+    "url": "www.gsfunds.com.cn",
+    "orgnamefc": "G"
+  },
+  "T000059598": {
+    "count": 72,
+    "name": "德邦基金管理有限公司",
+    "createDate": "2012-03-27",
+    "manager": "张騄",
+    "zcglgm": "339.98",
+    "url": "www.dbfund.com.cn",
+    "orgnamefc": "D"
+  },
+  "T000018969": {
+    "count": 95,
+    "name": "国联安基金管理有限公司",
+    "createDate": "2003-04-03",
+    "manager": "王琤",
+    "zcglgm": "950.28",
+    "url": "www.cpicfunds.com",
+    "orgnamefc": "G"
+  },
+  "00000015": {
+    "count": 384,
+    "name": "嘉实基金管理有限公司",
+    "createDate": "1999-03-25",
+    "manager": "经雷",
+    "zcglgm": "8164.62",
+    "url": "www.jsfund.cn",
+    "orgnamefc": "J"
+  },
+  "00068317": {
+    "count": 68,
+    "name": "中银国际证券股份有限公司",
+    "createDate": "2002-02-28",
+    "manager": "宁敏",
+    "zcglgm": "1256.85",
+    "url": "www.bocichina.com",
+    "orgnamefc": "Z"
+  },
+  "T000137360": {
+    "count": 146,
+    "name": "永赢基金管理有限公司",
+    "createDate": "2013-11-07",
+    "manager": "芦特尔",
+    "zcglgm": "2400.40",
+    "url": "www.maxwealthfund.com",
+    "orgnamefc": "Y"
+  },
+  "00083700": {
+    "count": 53,
+    "name": "摩根士丹利华鑫基金管理有限公司",
+    "createDate": "2003-03-14",
+    "manager": "王鸿嫔",
+    "zcglgm": "360.83",
+    "url": "www.msfunds.com.cn",
+    "orgnamefc": "M"
+  },
+  "03135981": {
+    "count": 70,
+    "name": "信达澳银基金管理有限公司",
+    "createDate": "2006-06-05",
+    "manager": "朱永强",
+    "zcglgm": "857.33",
+    "url": "www.fscinda.com",
+    "orgnamefc": "X"
+  },
+  "T000025553": {
+    "count": 101,
+    "name": "泰康资产管理有限责任公司",
+    "createDate": "2006-02-21",
+    "manager": "段国圣",
+    "zcglgm": "1012.87",
+    "url": "www.tkfunds.com.cn",
+    "orgnamefc": "T"
+  },
+  "00200080": {
+    "count": 13,
+    "name": "东海证券股份有限公司",
+    "createDate": "1993-01-16",
+    "manager": "殷建华",
+    "zcglgm": "3.62",
+    "url": "www.longone.com.cn",
+    "orgnamefc": "D"
+  },
+  "T000669197": {
+    "count": 34,
+    "name": "格林基金管理有限公司",
+    "createDate": "2016-11-01",
+    "manager": "高永红",
+    "zcglgm": "163.11",
+    "url": "www.china-greenfund.com",
+    "orgnamefc": "G"
+  },
+  "T003844916": {
+    "count": 7,
+    "name": "凯石基金管理有限公司",
+    "createDate": "2017-05-10",
+    "manager": "李琛",
+    "zcglgm": "4.88",
+    "url": "www.vstonefund.com",
+    "orgnamefc": "K"
+  },
+  "00086837": {
+    "count": 98,
+    "name": "东方基金管理股份有限公司",
+    "createDate": "2004-06-11",
+    "manager": "刘鸿鹏",
+    "zcglgm": "713.41",
+    "url": "www.orient-fund.com",
+    "orgnamefc": "D"
+  },
+  "00086315": {
+    "count": 125,
+    "name": "上投摩根基金管理有限公司",
+    "createDate": "2004-05-12",
+    "manager": "王大智",
+    "zcglgm": "1908.84",
+    "url": "www.51fund.com",
+    "orgnamefc": "S"
+  },
+  "T000427405": {
+    "count": 96,
+    "name": "汇安基金管理有限责任公司",
+    "createDate": "2016-04-25",
+    "manager": "刘强",
+    "zcglgm": "470.92",
+    "url": "www.huianfund.cn",
+    "orgnamefc": "H"
+  },
+  "T000079032": {
+    "count": 32,
+    "name": "英大基金管理有限公司",
+    "createDate": "2012-08-17",
+    "manager": "范育晖",
+    "zcglgm": "554.23",
+    "url": "www.ydamc.com",
+    "orgnamefc": "Y"
+  },
+  "00074843": {
+    "count": 104,
+    "name": "泰达宏利基金管理有限公司",
+    "createDate": "2002-06-06",
+    "manager": "傅国庆",
+    "zcglgm": "581.82",
+    "url": "www.mfcteda.com",
+    "orgnamefc": "T"
+  },
+  "T004886491": {
+    "count": 40,
+    "name": "同泰基金管理有限公司",
+    "createDate": "2018-10-11",
+    "manager": "马俊生",
+    "zcglgm": "34.71",
+    "url": "www.tongtaiamc.com",
+    "orgnamefc": "T"
+  },
+  "T000156932": {
+    "count": 41,
+    "name": "嘉合基金管理有限公司",
+    "createDate": "2014-07-30",
+    "manager": "金川",
+    "zcglgm": "265.29",
+    "url": "www.haoamc.com",
+    "orgnamefc": "J"
+  },
+  "00089990": {
+    "count": 170,
+    "name": "华泰柏瑞基金管理有限公司",
+    "createDate": "2004-11-18",
+    "manager": "韩勇",
+    "zcglgm": "2467.21",
+    "url": "www.huatai-pb.com",
+    "orgnamefc": "H"
+  },
+  "T000009766": {
+    "count": 102,
+    "name": "宝盈基金管理有限公司",
+    "createDate": "2001-05-18",
+    "manager": "杨凯",
+    "zcglgm": "829.34",
+    "url": "www.byfunds.com",
+    "orgnamefc": "B"
+  },
+  "T004911422": {
+    "count": 15,
+    "name": "博远基金管理有限公司",
+    "createDate": "2018-12-12",
+    "manager": "钟鸣远",
+    "zcglgm": "23.60",
+    "url": "www.boyuanfunds.com",
+    "orgnamefc": "B"
+  },
+  "00089255": {
+    "count": 254,
+    "name": "天弘基金管理有限公司",
+    "createDate": "2004-11-08",
+    "manager": "郭树强",
+    "zcglgm": "11651.67",
+    "url": "www.thfund.com.cn",
+    "orgnamefc": "T"
+  },
+  "T000027069": {
+    "count": 148,
+    "name": "长信基金管理有限责任公司",
+    "createDate": "2003-05-09",
+    "manager": "覃波",
+    "zcglgm": "1149.98",
+    "url": "www.cxfund.com.cn",
+    "orgnamefc": "C"
+  },
+  "Q11D3FC496": {
+    "count": 6,
+    "name": "汇泉基金管理有限公司",
+    "createDate": "2020-06-15",
+    "manager": "梁永强",
+    "zcglgm": "36.80",
+    "url": "www.springsfund.com",
+    "orgnamefc": "H"
+  },
+  "T002967112": {
+    "count": 2,
+    "name": "德邦证券资产管理有限公司",
+    "createDate": "2015-03-04",
+    "manager": "",
+    "zcglgm": "0.00",
+    "url": ""
+  },
+  "T000056137": {
+    "count": 45,
+    "name": "国金基金管理有限公司",
+    "createDate": "2011-11-02",
+    "manager": "尹庆军",
+    "zcglgm": "363.86",
+    "url": "www.gfund.com",
+    "orgnamefc": "G"
+  },
+  "T000013247": {
+    "count": 96,
+    "name": "华商基金管理有限公司",
+    "createDate": "2005-12-20",
+    "manager": "王小刚",
+    "zcglgm": "646.22",
+    "url": "www.hsfund.com",
+    "orgnamefc": "H"
+  },
+  "T000009642": {
+    "count": 138,
+    "name": "长城基金管理有限公司",
+    "createDate": "2001-12-27",
+    "manager": "邱春杨",
+    "zcglgm": "2022.40",
+    "url": "www.ccfund.com.cn",
+    "orgnamefc": "C"
+  },
+  "T004844190": {
+    "count": 30,
+    "name": "蜂巢基金管理有限公司",
+    "createDate": "2018-05-18",
+    "manager": "陈世涌",
+    "zcglgm": "332.36",
+    "url": "www.hexaamc.com",
+    "orgnamefc": "F"
+  },
+  "T000180644": {
+    "count": 3,
+    "name": "银河金汇证券资产管理有限公司",
+    "createDate": "2014-04-25",
+    "manager": "付振全",
+    "zcglgm": "1.23",
+    "url": ""
+  },
+  "T004734528": {
+    "count": 35,
+    "name": "博道基金管理有限公司",
+    "createDate": "2017-06-12",
+    "manager": "沈斌",
+    "zcglgm": "240.35",
+    "url": "www.bdfund.cn",
+    "orgnamefc": "B"
+  },
+  "T000000015": {
+    "count": 99,
+    "name": "申万菱信基金管理有限公司",
+    "createDate": "2004-01-15",
+    "manager": "汪涛",
+    "zcglgm": "789.04",
+    "url": "www.swsmu.com",
+    "orgnamefc": "S"
+  },
+  "Q01CB83720": {
+    "count": 13,
+    "name": "安信证券资产管理有限公司",
+    "createDate": "2020-01-16",
+    "manager": "李力",
+    "zcglgm": "143.94",
+    "url": "www.axzqzg.com",
+    "orgnamefc": "A"
+  },
+  "00084136": {
+    "count": 96,
+    "name": "诺安基金管理有限公司",
+    "createDate": "2003-12-09",
+    "manager": "齐斌",
+    "zcglgm": "1335.44",
+    "url": "www.lionfund.com.cn",
+    "orgnamefc": "N"
+  },
+  "00086048": {
+    "count": 104,
+    "name": "光大保德信基金管理有限公司",
+    "createDate": "2004-04-22",
+    "manager": "刘翔",
+    "zcglgm": "978.96",
+    "url": "www.epf.com.cn",
+    "orgnamefc": "G"
+  },
+  "00065906": {
+    "count": 112,
+    "name": "国投瑞银基金管理有限公司",
+    "createDate": "2002-06-13",
+    "manager": "王彦杰",
+    "zcglgm": "1643.44",
+    "url": "www.ubssdic.com",
+    "orgnamefc": "G"
+  },
+  "T000044430": {
+    "count": 120,
+    "name": "上海东方证券资产管理有限公司",
+    "createDate": "2010-06-08",
+    "manager": "张锋",
+    "zcglgm": "2707.63",
+    "url": "www.dfham.com",
+    "orgnamefc": "D"
+  },
+  "T000124223": {
+    "count": 104,
+    "name": "中加基金管理有限公司",
+    "createDate": "2013-03-27",
+    "manager": "宗喆",
+    "zcglgm": "1168.42",
+    "url": "www.bobbns.com",
+    "orgnamefc": "Z"
+  },
+  "T000128996": {
+    "count": 117,
+    "name": "兴业基金管理有限公司",
+    "createDate": "2013-04-17",
+    "manager": "胡斌",
+    "zcglgm": "2540.08",
+    "url": "www.cib-fund.com.cn",
+    "orgnamefc": "X"
+  },
+  "T000136364": {
+    "count": 57,
+    "name": "上银基金管理有限公司",
+    "createDate": "2013-08-30",
+    "manager": "刘小鹏",
+    "zcglgm": "988.22",
+    "url": "www.boscam.com.cn",
+    "orgnamefc": "S"
+  },
+  "T000056347": {
+    "count": 141,
+    "name": "安信基金管理有限责任公司",
+    "createDate": "2011-12-06",
+    "manager": "刘入领",
+    "zcglgm": "1112.29",
+    "url": "www.essencefund.com",
+    "orgnamefc": "A"
+  },
+  "T000203788": {
+    "count": 46,
+    "name": "长江证券(上海)资产管理有限公司",
+    "createDate": "2014-09-16",
+    "manager": "杨忠",
+    "zcglgm": "156.57",
+    "url": "www.cjzcgl.com",
+    "orgnamefc": "C"
+  },
+  "T000154369": {
+    "count": 164,
+    "name": "创金合信基金管理有限公司",
+    "createDate": "2014-07-09",
+    "manager": "苏彦祝",
+    "zcglgm": "794.82",
+    "url": "www.cjhxfund.com",
+    "orgnamefc": "C"
+  },
+  "T000012997": {
+    "count": 483,
+    "name": "南方基金管理股份有限公司",
+    "createDate": "1998-03-06",
+    "manager": "杨小松",
+    "zcglgm": "10690.42",
+    "url": "www.nffund.com",
+    "orgnamefc": "N"
+  },
+  "T000062793": {
+    "count": 32,
+    "name": "红塔红土基金管理有限公司",
+    "createDate": "2012-06-12",
+    "manager": "杨洁",
+    "zcglgm": "92.87",
+    "url": "www.htamc.com.cn",
+    "orgnamefc": "H"
+  },
+  "T000025306": {
+    "count": 79,
+    "name": "农银汇理基金管理有限公司",
+    "createDate": "2008-03-18",
+    "manager": "程昆",
+    "zcglgm": "2056.77",
+    "url": "www.abc-ca.com",
+    "orgnamefc": "N"
+  },
+  "00083981": {
+    "count": 7,
+    "name": "方正证券股份有限公司",
+    "createDate": "1994-10-26",
+    "manager": "",
+    "zcglgm": "35.92",
+    "url": "www.foundersc.com",
+    "orgnamefc": "F"
+  },
+  "T000138979": {
+    "count": 65,
+    "name": "兴银基金管理有限责任公司",
+    "createDate": "2013-10-25",
+    "manager": "张贵云",
+    "zcglgm": "630.31",
+    "url": "www.hffunds.cn",
+    "orgnamefc": "X"
+  },
+  "T000136371": {
+    "count": 74,
+    "name": "鑫元基金管理有限公司",
+    "createDate": "2013-08-29",
+    "manager": "龙艺",
+    "zcglgm": "704.80",
+    "url": "www.xyamc.com",
+    "orgnamefc": "X"
+  },
+  "00200471": {
+    "count": 133,
+    "name": "中信保诚基金管理有限公司",
+    "createDate": "2005-09-30",
+    "manager": "张翔燕",
+    "zcglgm": "1422.41",
+    "url": "www.citicprufunds.com.cn",
+    "orgnamefc": "Z"
+  },
+  "T004853429": {
+    "count": 34,
+    "name": "惠升基金管理有限责任公司",
+    "createDate": "2018-09-28",
+    "manager": "张金锋",
+    "zcglgm": "316.84",
+    "url": "www.risingamc.com",
+    "orgnamefc": "H"
+  },
+  "T000029132": {
+    "count": 74,
+    "name": "浙商基金管理有限公司",
+    "createDate": "2010-10-21",
+    "manager": "肖风(代)",
+    "zcglgm": "450.44",
+    "url": "www.zsfund.com",
+    "orgnamefc": "Z"
+  },
+  "T000025163": {
+    "count": 87,
+    "name": "金鹰基金管理有限公司",
+    "createDate": "2002-11-06",
+    "manager": "姚文强",
+    "zcglgm": "653.28",
+    "url": "www.gefund.com.cn",
+    "orgnamefc": "J"
+  },
+  "T000062637": {
+    "count": 36,
+    "name": "上海光大证券资产管理有限公司",
+    "createDate": "2012-02-21",
+    "manager": "吴亮",
+    "zcglgm": "141.43",
+    "url": ""
+  },
+  "00056810": {
+    "count": 2,
+    "name": "上海证券有限责任公司",
+    "createDate": "2001-04-27",
+    "manager": "",
+    "zcglgm": "0.00",
+    "url": "www.shzq.com",
+    "orgnamefc": "S"
+  },
+  "Q11D16F44B": {
+    "count": 32,
+    "name": "东兴基金管理有限公司",
+    "createDate": "2020-03-17",
+    "manager": "王青",
+    "zcglgm": "137.61",
+    "url": "www.dxamc.cn",
+    "orgnamefc": "D"
+  },
+  "T004894288": {
+    "count": 29,
+    "name": "淳厚基金管理有限公司",
+    "createDate": "2018-11-03",
+    "manager": "邢媛",
+    "zcglgm": "255.98",
+    "url": ""
+  },
+  "T000070540": {
+    "count": 30,
+    "name": "上海海通证券资产管理有限公司",
+    "createDate": "2012-06-26",
+    "manager": "李井伟",
+    "zcglgm": "22.41",
+    "url": "www.htsec.com",
+    "orgnamefc": "H"
+  },
+  "T000034752": {
+    "count": 135,
+    "name": "中融基金管理有限公司",
+    "createDate": "2013-05-31",
+    "manager": "黄震",
+    "zcglgm": "1196.38",
+    "url": "www.zrfunds.com.cn",
+    "orgnamefc": "Z"
+  },
+  "T000120522": {
+    "count": 154,
+    "name": "前海开源基金管理有限公司",
+    "createDate": "2013-01-23",
+    "manager": "秦亚峰",
+    "zcglgm": "1587.95",
+    "url": "www.qhkyfund.com",
+    "orgnamefc": "Q"
+  },
+  "T000656718": {
+    "count": 111,
+    "name": "鹏扬基金管理有限公司",
+    "createDate": "2016-07-06",
+    "manager": "杨爱斌",
+    "zcglgm": "911.66",
+    "url": "www.pyamc.com",
+    "orgnamefc": "P"
+  },
+  "Q01D2A1712": {
+    "count": 11,
+    "name": "兴华基金管理有限公司",
+    "createDate": "2020-04-28",
+    "manager": "韩光华",
+    "zcglgm": "24.63",
+    "url": "www.xinghuafund.com.cn",
+    "orgnamefc": "X"
+  },
+  "Q11E5E2FCC": {
+    "count": 4,
+    "name": "贝莱德基金管理有限公司",
+    "createDate": "2020-09-10",
+    "manager": "张弛",
+    "zcglgm": "62.48",
+    "url": "www.blackrock.com.cn",
+    "orgnamefc": "B"
+  },
+  "T000376615": {
+    "count": 22,
+    "name": "恒生前海基金管理有限公司",
+    "createDate": "2016-07-01",
+    "manager": "刘宇",
+    "zcglgm": "46.95",
+    "url": "www.hsqhfunds.com",
+    "orgnamefc": "H"
+  },
+  "T000287485": {
+    "count": 8,
+    "name": "东证融汇证券资产管理有限公司",
+    "createDate": "2015-12-24",
+    "manager": "王钟",
+    "zcglgm": "0.00",
+    "url": ""
+  },
+  "00081892": {
+    "count": 44,
+    "name": "泰信基金管理有限公司",
+    "createDate": "2003-05-23",
+    "manager": "高宇",
+    "zcglgm": "333.34",
+    "url": "www.ftfund.com",
+    "orgnamefc": "T"
+  },
+  "T000017475": {
+    "count": 203,
+    "name": "景顺长城基金管理有限公司",
+    "createDate": "2003-06-12",
+    "manager": "康乐",
+    "zcglgm": "5484.57",
+    "url": "www.igwfmc.com",
+    "orgnamefc": "J"
+  },
+  "T000056118": {
+    "count": 71,
+    "name": "方正富邦基金管理有限公司",
+    "createDate": "2011-07-08",
+    "manager": "李长桥",
+    "zcglgm": "458.35",
+    "url": "www.founderff.com",
+    "orgnamefc": "F"
+  },
+  "03143508": {
+    "count": 29,
+    "name": "金元顺安基金管理有限公司",
+    "createDate": "2006-11-13",
+    "manager": "邝晓星",
+    "zcglgm": "251.68",
+    "url": "www.jysa99.com",
+    "orgnamefc": "J"
+  },
+  "T000156864": {
+    "count": 17,
+    "name": "兴证证券资产管理有限公司",
+    "createDate": "2014-06-09",
+    "manager": "曾旭",
+    "zcglgm": "13.29",
+    "url": "ixzzcgl.com",
+    "orgnamefc": "X"
+  },
+  "00071906": {
+    "count": 2,
+    "name": "华创证券有限责任公司",
+    "createDate": "2002-01-22",
+    "manager": "陈强",
+    "zcglgm": "0.00",
+    "url": ""
+  },
+  "00065987": {
+    "count": 8,
+    "name": "东吴证券股份有限公司",
+    "createDate": "1992-09-04",
+    "manager": "范力",
+    "zcglgm": "4.80",
+    "url": "www.dwzq.com.cn",
+    "orgnamefc": "D"
+  },
+  "00216478": {
+    "count": 77,
+    "name": "中邮创业基金管理股份有限公司",
+    "createDate": "2006-05-08",
+    "manager": "孔军",
+    "zcglgm": "622.80",
+    "url": "www.postfund.com.cn",
+    "orgnamefc": "Z"
+  },
+  "T000124117": {
+    "count": 33,
+    "name": "华润元大基金管理有限公司",
+    "createDate": "2013-01-17",
+    "manager": "李仆",
+    "zcglgm": "142.06",
+    "url": "www.cryuantafund.com",
+    "orgnamefc": "H"
+  },
+  "T004758758": {
+    "count": 20,
+    "name": "恒越基金管理有限公司",
+    "createDate": "2017-09-14",
+    "manager": "黄小坚",
+    "zcglgm": "149.86",
+    "url": "www.hengyuefund.com",
+    "orgnamefc": "H"
+  },
+  "T000045194": {
+    "count": 25,
+    "name": "富安达基金管理有限公司",
+    "createDate": "2011-04-27",
+    "manager": "胥海",
+    "zcglgm": "111.34",
+    "url": "www.fadfunds.com",
+    "orgnamefc": "F"
+  },
+  "00015659": {
+    "count": 20,
+    "name": "山西证券股份有限公司",
+    "createDate": "1988-07-28",
+    "manager": "王怡里",
+    "zcglgm": "127.01",
+    "url": "www.sxzq.com",
+    "orgnamefc": "S"
+  },
+  "00064654": {
+    "count": 7,
+    "name": "国联证券股份有限公司",
+    "createDate": "1999-01-08",
+    "manager": "葛小波",
+    "zcglgm": "13.69",
+    "url": "www.glsc.com.cn",
+    "orgnamefc": "G"
+  },
+  "03139945": {
+    "count": 44,
+    "name": "诺德基金管理有限公司",
+    "createDate": "2006-06-08",
+    "manager": "罗凯",
+    "zcglgm": "367.88",
+    "url": "www.nuodefund.com",
+    "orgnamefc": "N"
+  },
+  "T000127090": {
+    "count": 21,
+    "name": "上海国泰君安证券资产管理有限公司",
+    "createDate": "2010-08-27",
+    "manager": "陶耿",
+    "zcglgm": "212.25",
+    "url": "www.gtjazg.com",
+    "orgnamefc": "S"
+  },
+  "jjjl0000049": {
+    "count": 119,
+    "name": "银河基金管理有限公司",
+    "createDate": "2002-06-14",
+    "manager": "高见",
+    "zcglgm": "1175.19",
+    "url": "www.galaxyasset.com",
+    "orgnamefc": "Y"
+  },
+  "00089251": {
+    "count": 80,
+    "name": "华富基金管理有限公司",
+    "createDate": "2004-04-19",
+    "manager": "曹华玮",
+    "zcglgm": "772.57",
+    "url": "www.hffund.com",
+    "orgnamefc": "H"
+  },
+  "00077900": {
+    "count": 142,
+    "name": "海富通基金管理有限公司",
+    "createDate": "2003-04-18",
+    "manager": "任志强",
+    "zcglgm": "1653.75",
+    "url": "www.hftfund.com",
+    "orgnamefc": "H"
+  },
+  "00206677": {
+    "count": 42,
+    "name": "汇丰晋信基金管理有限公司",
+    "createDate": "2005-11-16",
+    "manager": "李选进",
+    "zcglgm": "617.75",
+    "url": "www.hsbcjt.cn",
+    "orgnamefc": "H"
+  },
+  "T000034373": {
+    "count": 95,
+    "name": "西部利得基金管理有限公司",
+    "createDate": "2010-07-20",
+    "manager": "贺燕萍",
+    "zcglgm": "859.35",
+    "url": "www.westleadfund.com",
+    "orgnamefc": "X"
+  },
+  "00054114": {
+    "count": 12,
+    "name": "华安证券股份有限公司",
+    "createDate": "2001-01-08",
+    "manager": "杨爱民",
+    "zcglgm": "36.59",
+    "url": "www.hazq.com",
+    "orgnamefc": "H"
+  },
+  "T000687769": {
+    "count": 12,
+    "name": "渤海汇金证券资产管理有限公司",
+    "createDate": "2016-05-18",
+    "manager": "麻众志",
+    "zcglgm": "107.10",
+    "url": "www.bhhjamc.com",
+    "orgnamefc": "B"
+  },
+  "Q11E54A7E7": {
+    "count": 4,
+    "name": "百嘉基金管理有限公司",
+    "createDate": "2020-09-04",
+    "manager": "詹松茂",
+    "zcglgm": "30.46",
+    "url": "www.baijiafunds.com.cn",
+    "orgnamefc": "B"
+  },
+  "T000186525": {
+    "count": 81,
+    "name": "财通证券资产管理有限公司",
+    "createDate": "2014-12-15",
+    "manager": "钱慧",
+    "zcglgm": "1122.94",
+    "url": "www.ctzg.com",
+    "orgnamefc": "C"
+  },
+  "T000056136": {
+    "count": 44,
+    "name": "长安基金管理有限公司",
+    "createDate": "2011-09-05",
+    "manager": "汪钦",
+    "zcglgm": "105.27",
+    "url": "www.changanfunds.com",
+    "orgnamefc": "C"
+  },
+  "T004734529": {
+    "count": 17,
+    "name": "国融基金管理有限公司",
+    "createDate": "2017-06-20",
+    "manager": "徐进",
+    "zcglgm": "2.78",
+    "url": "www.gowinamc.com",
+    "orgnamefc": "G"
+  },
+  "T000018289": {
+    "count": 177,
+    "name": "华宝基金管理有限公司",
+    "createDate": "2003-03-07",
+    "manager": "黄小薏",
+    "zcglgm": "3606.73",
+    "url": "www.fsfund.com",
+    "orgnamefc": "H"
+  },
+  "T000136367": {
+    "count": 64,
+    "name": "中信建投基金管理有限公司",
+    "createDate": "2013-09-09",
+    "manager": "金强",
+    "zcglgm": "482.88",
+    "url": "www.cfund108.com",
+    "orgnamefc": "Z"
+  },
+  "T004829470": {
+    "count": 11,
+    "name": "华融基金管理有限公司",
+    "createDate": "2019-03-01",
+    "manager": "丁卓",
+    "zcglgm": "52.58",
+    "url": "www.hr-fund.com.cn",
+    "orgnamefc": "H"
+  },
+  "T004894287": {
+    "count": 43,
+    "name": "西藏东财基金管理有限公司",
+    "createDate": "2018-10-26",
+    "manager": "沙福贵",
+    "zcglgm": "50.79",
+    "url": "www.dongcaijijin.com",
+    "orgnamefc": "D"
+  },
+  "T000026064": {
+    "count": 83,
+    "name": "新华基金管理股份有限公司",
+    "createDate": "2004-12-09",
+    "manager": "于春玲",
+    "zcglgm": "717.19",
+    "url": "www.ncfund.com.cn",
+    "orgnamefc": "X"
+  },
+  "T000124225": {
+    "count": 35,
+    "name": "太平基金管理有限公司",
+    "createDate": "2013-01-23",
+    "manager": "范宇",
+    "zcglgm": "570.61",
+    "url": "www.taipingfund.com.cn",
+    "orgnamefc": "T"
+  },
+  "T000012236": {
+    "count": 101,
+    "name": "长盛基金管理有限公司",
+    "createDate": "1999-03-26",
+    "manager": "周兵",
+    "zcglgm": "551.43",
+    "url": "www.csfunds.com.cn",
+    "orgnamefc": "C"
+  },
+  "00067130": {
+    "count": 2,
+    "name": "第一创业证券股份有限公司",
+    "createDate": "1998-01-12",
+    "manager": "王芳",
+    "zcglgm": "2.32",
+    "url": "www.firstcapital.com.cn",
+    "orgnamefc": "D"
+  },
+  "T000060879": {
+    "count": 5,
+    "name": "华宸未来基金管理有限公司",
+    "createDate": "2012-06-20",
+    "manager": "宋小龙",
+    "zcglgm": "4.96",
+    "url": "www.hcmiraefund.com",
+    "orgnamefc": "H"
+  },
+  "T004812531": {
+    "count": 11,
+    "name": "弘毅远方基金管理有限公司",
+    "createDate": "2018-01-31",
+    "manager": "黄薇薇",
+    "zcglgm": "15.71",
+    "url": "www.honyfunds.com",
+    "orgnamefc": "H"
+  },
+  "01000728": {
+    "count": 1,
+    "name": "国元证券股份有限公司",
+    "createDate": "1997-06-06",
+    "manager": "陈新",
+    "zcglgm": "4.61",
+    "url": "www.gyzq.com.cn",
+    "orgnamefc": "G"
+  },
+  "T000139081": {
+    "count": 44,
+    "name": "圆信永丰基金管理有限公司",
+    "createDate": "2014-01-02",
+    "manager": "蔡炎坤",
+    "zcglgm": "434.46",
+    "url": "www.gtsfund.com.cn",
+    "orgnamefc": "Y"
+  },
+  "00064581": {
+    "count": 5,
+    "name": "长城证券股份有限公司",
+    "createDate": "1996-05-02",
+    "manager": "李翔",
+    "zcglgm": "21.78",
+    "url": "www.cgws.com",
+    "orgnamefc": "C"
+  },
+  "00055115": {
+    "count": 2,
+    "name": "华鑫证券有限责任公司",
+    "createDate": "2001-03-06",
+    "manager": "陈海东",
+    "zcglgm": "1.12",
+    "url": "www.cfsc.com.cn",
+    "orgnamefc": "H"
+  },
+  "T000124116": {
+    "count": 15,
+    "name": "东海基金管理有限责任公司",
+    "createDate": "2013-02-25",
+    "manager": "严晓珺",
+    "zcglgm": "91.24",
+    "url": "www.donghaifunds.com",
+    "orgnamefc": "D"
+  },
+  "03144694": {
+    "count": 5,
+    "name": "信达证券股份有限公司",
+    "createDate": "2007-09-04",
+    "manager": "祝瑞敏",
+    "zcglgm": "4.03",
+    "url": "www.cindasc.com",
+    "orgnamefc": "X"
+  },
+  "Q001990BCB": {
+    "count": 2,
+    "name": "易米基金管理有限公司",
+    "createDate": "2017-05-24",
+    "manager": "李毅",
+    "zcglgm": "0.10",
+    "url": "www.yimifund.com",
+    "orgnamefc": "Y"
+  },
+  "03130225": {
+    "count": 35,
+    "name": "中信证券股份有限公司",
+    "createDate": "1995-10-25",
+    "manager": "杨明辉",
+    "zcglgm": "457.13",
+    "url": "www.citics.com",
+    "orgnamefc": "Z"
+  },
+  "Q11E38B731": {
+    "count": 5,
+    "name": "天风(上海)证券资产管理有限公司",
+    "createDate": "2020-08-24",
+    "manager": "付玉",
+    "zcglgm": "5.02",
+    "url": "www.tfzqam.com",
+    "orgnamefc": "T"
+  },
+  "T000276149": {
+    "count": 32,
+    "name": "富荣基金管理有限公司",
+    "createDate": "2016-01-25",
+    "manager": "高峰",
+    "zcglgm": "227.76",
+    "url": "www.furamc.com.cn",
+    "orgnamefc": "F"
+  },
+  "T004898670": {
+    "count": 6,
+    "name": "睿远基金管理有限公司",
+    "createDate": "2018-10-29",
+    "manager": "陈光明",
+    "zcglgm": "633.96",
+    "url": "www.foresightfund.com",
+    "orgnamefc": "R"
+  },
+  "T000230636": {
+    "count": 8,
+    "name": "招商证券资产管理有限公司",
+    "createDate": "2015-04-03",
+    "manager": "熊志钢",
+    "zcglgm": "9.82",
+    "url": ""
+  },
+  "T000142723": {
+    "count": 18,
+    "name": "广发证券资产管理(广东)有限公司",
+    "createDate": "2014-01-02",
+    "manager": "秦力",
+    "zcglgm": "117.23",
+    "url": "www.gfam.com.cn",
+    "orgnamefc": "G"
+  },
+  "03131331": {
+    "count": 12,
+    "name": "中国国际金融股份有限公司",
+    "createDate": "1995-07-31",
+    "manager": "黄朝晖",
+    "zcglgm": "54.54",
+    "url": "www.cicc.com",
+    "orgnamefc": "Z"
+  },
+  "T004847159": {
+    "count": 17,
+    "name": "湘财基金管理有限公司",
+    "createDate": "2018-07-13",
+    "manager": "程涛",
+    "zcglgm": "31.91",
+    "url": "www.xc-fund.com",
+    "orgnamefc": "X"
+  },
+  "T002953535": {
+    "count": 40,
+    "name": "中国人保资产管理有限公司",
+    "createDate": "2003-07-16",
+    "manager": "曾北川",
+    "zcglgm": "79.59",
+    "url": "www.piccamc.com",
+    "orgnamefc": "R"
+  },
+  "T000025305": {
+    "count": 39,
+    "name": "中海基金管理有限公司",
+    "createDate": "2004-03-18",
+    "manager": "曾杰",
+    "zcglgm": "218.97",
+    "url": "www.zhfund.com",
+    "orgnamefc": "Z"
+  },
+  "00077895": {
+    "count": 1,
+    "name": "东莞证券股份有限公司",
+    "createDate": "1997-06-09",
+    "manager": "潘海标",
+    "zcglgm": "4.59",
+    "url": "www.dgzq.com.cn",
+    "orgnamefc": "D"
+  },
+  "00200959": {
+    "count": 2,
+    "name": "中信建投证券股份有限公司",
+    "createDate": "2005-11-02",
+    "manager": "李格平",
+    "zcglgm": "27.06",
+    "url": "www.csc108.com",
+    "orgnamefc": "Z"
+  },
+  "T000429847": {
+    "count": 35,
+    "name": "华泰保兴基金管理有限公司",
+    "createDate": "2016-07-26",
+    "manager": "王冠龙",
+    "zcglgm": "329.69",
+    "url": "www.ehuataifund.com",
+    "orgnamefc": "H"
+  },
+  "Q11D4D5A06": {
+    "count": 2,
+    "name": "尚正基金管理有限公司",
+    "createDate": "2020-07-16",
+    "manager": "郑文祥",
+    "zcglgm": "1.81",
+    "url": ""
+  },
+  "01000750": {
+    "count": 4,
+    "name": "国海证券股份有限公司",
+    "createDate": "1993-06-28",
+    "manager": "卢凯",
+    "zcglgm": "12.08",
+    "url": "www.ghzq.com.cn",
+    "orgnamefc": "G"
+  },
+  "T000025712": {
+    "count": 1,
+    "name": "国信证券股份有限公司",
+    "createDate": "1994-06-30",
+    "manager": "邓舸",
+    "zcglgm": "0.47",
+    "url": "www.guosen.com.cn",
+    "orgnamefc": "G"
+  },
+  "T004844183": {
+    "count": 5,
+    "name": "中庚基金管理有限公司",
+    "createDate": "2015-11-13",
+    "manager": "孟辉",
+    "zcglgm": "245.55",
+    "url": "www.zgfunds.com.cn",
+    "orgnamefc": "Z"
+  },
+  "T000148290": {
+    "count": 25,
+    "name": "北信瑞丰基金管理有限公司",
+    "createDate": "2014-03-17",
+    "manager": "赵远峰",
+    "zcglgm": "78.07",
+    "url": "www.bxrfund.com",
+    "orgnamefc": "B"
+  },
+  "00065214": {
+    "count": 4,
+    "name": "平安证券股份有限公司",
+    "createDate": "1996-07-18",
+    "manager": "何之江",
+    "zcglgm": "2.93",
+    "url": "www.stock.pingan.com",
+    "orgnamefc": "P"
+  },
+  "T000269779": {
+    "count": 59,
+    "name": "新疆前海联合基金管理有限公司",
+    "createDate": "2015-08-07",
+    "manager": "吴昱村",
+    "zcglgm": "296.85",
+    "url": "www.qhlhfund.com",
+    "orgnamefc": "X"
+  },
+  "Q01CA81208": {
+    "count": 4,
+    "name": "瑞达基金管理有限公司",
+    "createDate": "2020-03-24",
+    "manager": "夏萌",
+    "zcglgm": "2.90",
+    "url": "",
+    "orgnamefc": "R"
+  },
+  "02600181": {
+    "count": 1,
+    "name": "太平洋证券股份有限公司",
+    "createDate": "2004-01-06",
+    "manager": "李长伟",
+    "zcglgm": "11.71",
+    "url": "www.tpyzq.com",
+    "orgnamefc": "T"
+  },
+  "T004747360": {
+    "count": 10,
+    "name": "东方阿尔法基金管理有限公司",
+    "createDate": "2017-07-04",
+    "manager": "刘明",
+    "zcglgm": "140.81",
+    "url": "www.dfa66.com",
+    "orgnamefc": "D"
+  },
+  "00084387": {
+    "count": 19,
+    "name": "天治基金管理有限公司",
+    "createDate": "2003-05-27",
+    "manager": "徐克磊",
+    "zcglgm": "56.47",
+    "url": "www.chinanature.com.cn",
+    "orgnamefc": "T"
+  },
+  "T000257573": {
+    "count": 12,
+    "name": "新沃基金管理有限公司",
+    "createDate": "2015-08-19",
+    "manager": "邢凯",
+    "zcglgm": "54.05",
+    "url": "www.sinvofund.com",
+    "orgnamefc": "X"
+  },
+  "T000124126": {
+    "count": 14,
+    "name": "江信基金管理有限公司",
+    "createDate": "2013-01-28",
+    "manager": "初英",
+    "zcglgm": "24.94",
+    "url": "www.jxfund.cn",
+    "orgnamefc": "J"
+  },
+  "T000191724": {
+    "count": 2,
+    "name": "申万宏源证券有限公司",
+    "createDate": "2015-01-16",
+    "manager": "杨玉成",
+    "zcglgm": "1.75",
+    "url": "www.swhysc.com",
+    "orgnamefc": "S"
+  },
+  "T000687382": {
+    "count": 25,
+    "name": "南华基金管理有限公司",
+    "createDate": "2016-11-17",
+    "manager": "朱坚",
+    "zcglgm": "96.92",
+    "url": "www.nanhuafunds.com",
+    "orgnamefc": "N"
+  },
+  "Q01B8D26F2": {
+    "count": 8,
+    "name": "达诚基金管理有限公司",
+    "createDate": "2019-08-05",
+    "manager": "赵楠",
+    "zcglgm": "4.11",
+    "url": "www.integrity-funds.com",
+    "orgnamefc": "D"
+  },
+  "00065917": {
+    "count": 5,
+    "name": "国都证券股份有限公司",
+    "createDate": "2001-12-28",
+    "manager": "韩本毅",
+    "zcglgm": "0.89",
+    "url": "www.guodu.com",
+    "orgnamefc": "G"
+  },
+  "T004886490": {
+    "count": 12,
+    "name": "朱雀基金管理有限公司",
+    "createDate": "2018-10-25",
+    "manager": "梁跃军",
+    "zcglgm": "294.29",
+    "url": "www.rosefinchfund.com",
+    "orgnamefc": "Z"
+  },
+  "03150077": {
+    "count": 2,
+    "name": "东兴证券股份有限公司",
+    "createDate": "2008-05-28",
+    "manager": "张涛",
+    "zcglgm": "0.00",
+    "url": "www.dxzq.net",
+    "orgnamefc": "D"
+  },
+  "T000260350": {
+    "count": 13,
+    "name": "中科沃土基金管理有限公司",
+    "createDate": "2015-09-06",
+    "manager": "智会杰",
+    "zcglgm": "33.14",
+    "url": "www.richlandasm.com.cn",
+    "orgnamefc": "Z"
+  },
+  "T000251035": {
+    "count": 22,
+    "name": "金信基金管理有限公司",
+    "createDate": "2015-07-03",
+    "manager": "殷克胜",
+    "zcglgm": "77.95",
+    "url": "www.jxfunds.com.cn",
+    "orgnamefc": "J"
+  },
+  "T004866891": {
+    "count": 2,
+    "name": "明亚基金管理有限责任公司",
+    "createDate": "2019-02-27",
+    "manager": "徐岱",
+    "zcglgm": "0.45",
+    "url": "www.mingyafunds.com",
+    "orgnamefc": "M"
+  },
+  "T004807910": {
+    "count": 6,
+    "name": "合煦智远基金管理有限公司",
+    "createDate": "2017-08-21",
+    "manager": "李骥",
+    "zcglgm": "2.58",
+    "url": "www.uvasset.com",
+    "orgnamefc": "H"
+  },
+  "T000370591": {
+    "count": 19,
+    "name": "先锋基金管理有限公司",
+    "createDate": "2016-05-16",
+    "manager": "高明达(代)",
+    "zcglgm": "38.18",
+    "url": "www.xf-fund.com",
+    "orgnamefc": "X"
+  },
+  "00089260": {
+    "count": 6,
+    "name": "益民基金管理有限公司",
+    "createDate": "2005-12-12",
+    "manager": "党均章(代)",
+    "zcglgm": "14.38",
+    "url": "www.ymfund.com",
+    "orgnamefc": "Y"
+  }
+}
